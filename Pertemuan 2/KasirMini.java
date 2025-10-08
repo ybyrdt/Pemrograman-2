@@ -16,7 +16,7 @@ public class KasirMini {
         Barang barang = new Barang();
         TransaksiKasir transaksi = new TransaksiKasir();
 
-        kasir.namaKasir = "Iwan";
+        kasir.namaKasir = "Radit";
         barang.namaBarang = "Mie Instan Goreng";
         barang.hargaBarang = 3500;
         transaksi.jumlahBeli = 3;
@@ -27,3 +27,4 @@ public class KasirMini {
         transaksi.hitungTotal(barang.hargaBarang);
     }
 }
+
