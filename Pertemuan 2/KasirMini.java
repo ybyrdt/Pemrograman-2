@@ -21,10 +21,11 @@ public class KasirMini {
         barang.hargaBarang = 3500;
         transaksi.jumlahBeli = 3;
 
-        System.out.println("=== Radit Mart===");
+        System.out.println("=== Radit Mart ===");
         kasir.tampilkanKasir();
         barang.tampilkanBarang();
         transaksi.hitungTotal(barang.hargaBarang);
     }
 }
+
 
