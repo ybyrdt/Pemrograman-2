@@ -7,7 +7,7 @@ package Pertemuan5_inheritance_pewarisan;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Novel extends Buku {
 
