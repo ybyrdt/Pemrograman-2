@@ -7,7 +7,7 @@ package Pertemuan6_Polimorfisme_Statis;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 
 public class Diskon {
