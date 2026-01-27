@@ -7,7 +7,7 @@ package Pertemuan5_Overriding_pada_Inheritance;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Main {
     public static void main(String[] args) {
