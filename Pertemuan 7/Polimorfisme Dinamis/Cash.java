@@ -7,7 +7,7 @@ package Pertemuan7_Polimorfisme_Dinamis;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 class Cash extends Pembayaran {
     @Override
