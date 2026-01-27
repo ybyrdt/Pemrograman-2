@@ -7,7 +7,7 @@ package Pertemuan6_Method_Getter_Setter;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Main {
     public static void main(String[] args) {
