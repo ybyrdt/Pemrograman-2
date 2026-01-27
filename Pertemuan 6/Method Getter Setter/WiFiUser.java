@@ -7,7 +7,7 @@ package Pertemuan6_Method_Getter_Setter;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class WiFiUser {
     private String username;
