@@ -7,7 +7,7 @@ package Pertemuan7_Interface;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Main {
     public static void main(String[] args) {
