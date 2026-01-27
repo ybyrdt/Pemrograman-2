@@ -7,7 +7,7 @@ package Pertemuan6_Konstruktor;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 
 public class Peternak {
