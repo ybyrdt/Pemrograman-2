@@ -7,7 +7,7 @@ package Pertemuan5_Overriding_pada_Inheritance;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Kapal_Pesiar extends Kapal{
     
