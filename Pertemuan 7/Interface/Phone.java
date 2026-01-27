@@ -7,7 +7,7 @@ package Pertemuan7_Interface;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public interface Phone {
     int MAX_VOLUME = 100;
