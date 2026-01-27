@@ -6,7 +6,7 @@
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Belajar_GUI extends javax.swing.JFrame {
 
