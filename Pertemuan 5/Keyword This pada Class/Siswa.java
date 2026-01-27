@@ -7,7 +7,7 @@ package Pertemuan5_Keyword_This_pada_Class;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Siswa {
     // Atribut
