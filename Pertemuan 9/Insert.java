@@ -7,7 +7,7 @@ package Pertemuan9;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 
 /*import java.sql.PreparedStatement;*/
