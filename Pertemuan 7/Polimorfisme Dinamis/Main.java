@@ -7,7 +7,7 @@ package Pertemuan7_Polimorfisme_Dinamis;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Main {
     public static void main(String[] args) {
