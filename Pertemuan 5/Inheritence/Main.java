@@ -7,7 +7,7 @@ package Pertemuan5_inheritance_pewarisan;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Main {
     public static void main(String[] args) {
