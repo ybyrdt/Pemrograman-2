@@ -7,7 +7,7 @@ package Pertemuan7_Polimorfisme_Dinamis;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 class Ewallet extends Pembayaran {
     @Override
