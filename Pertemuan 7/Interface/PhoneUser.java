@@ -7,7 +7,7 @@ package Pertemuan7_Interface;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class PhoneUser {
     private Phone phone;
