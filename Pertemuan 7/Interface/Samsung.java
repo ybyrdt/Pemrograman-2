@@ -7,7 +7,7 @@ package Pertemuan7_Interface;
 
 /**
  *
- * @author calvi
+ * @author radit
  */
 public class Samsung implements Phone {
     private int volume;
